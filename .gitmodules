@@ -1,9 +1,15 @@
 [submodule "deps/litex"]
 	path = deps/litex
 	url = https://github.com/enjoy-digital/litex.git
+	notify = " tmarble@info9.net"
+	notify = " tmarble@info9.net bunnie@kosagi.com"
 [submodule "deps/gateware"]
 	path = deps/gateware
 	url = https://github.com/betrusted-io/gateware.git
+	notify = " tmarble@info9.net"
+	notify = " tmarble@info9.net bunnie@kosagi.com"
 [submodule "deps/migen"]
 	path = deps/migen
 	url = https://github.com/m-labs/migen.git
+	notify = " tmarble@info9.net"
+	notify = " tmarble@info9.net bunnie@kosagi.com"
