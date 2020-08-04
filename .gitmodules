@@ -13,3 +13,6 @@
 	url = https://github.com/m-labs/migen.git
 	notify = " tmarble@info9.net"
 	notify = " tmarble@info9.net bunnie@kosagi.com"
+[submodule "deps/pythondata-cpu-vexriscv"]
+	path = deps/pythondata-cpu-vexriscv
+	url = https://github.com/litex-hub/pythondata-cpu-vexriscv.git
