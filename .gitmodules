@@ -15,4 +15,4 @@
 	notify = " tmarble@info9.net bunnie@kosagi.com"
 [submodule "deps/pythondata-cpu-vexriscv"]
 	path = deps/pythondata-cpu-vexriscv
-	url = https://github.com/litex-hub/pythondata-cpu-vexriscv.git
+	url = https://github.com/betrusted-io/pythondata-cpu-vexriscv.git
