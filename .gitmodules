@@ -18,4 +18,4 @@
 	url = https://github.com/betrusted-io/pythondata-cpu-vexriscv.git
 [submodule "deps/pythondata-software-picolibc"]
 	path = deps/pythondata-software-picolibc
-	url = https://github.com/antmicro/pythondata-software-picolibc
+	url = https://github.com/litex-hub/pythondata-software-picolibc
