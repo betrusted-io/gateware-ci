@@ -16,6 +16,7 @@ DEFAULT_DEPS = {
     'migen':        'https://github.com/m-labs/migen.git',
     'litex':        'https://github.com/enjoy-digital/litex.git',
     'gateware':     'https://github.com/betrusted-io/gateware.git',
+    'pythondata_software_picolibc': 'https://github.com/antmicro/pythondata-software-picolibc',
 }
 
 OPTIONAL_DEPS = {
